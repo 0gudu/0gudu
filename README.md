@@ -1,5 +1,1 @@
-- 👋 Hi, I’m 0gudu
-- 👀 I'm learning some programing stuff to feed my dream of working with this
-- 🌱 I’m currently learning web develop
-- 💞️ I'm in love with my keyboard sound
-- 📫 E-mail me gugag3rr@gmail.com
+
