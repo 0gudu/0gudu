@@ -22,5 +22,5 @@
 
   <br>
 <p>
-  <img height=160px src="[https://github-readme-stats.vercel.app/api/top-langs/?username=eurenaneu&layout=compact&border_radius=5&theme=midnight-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=0gudu&layout=compact&border_radius=5&theme=midnight-purple)https://github-readme-stats.vercel.app/api/top-langs/?username=0gudu&layout=compact&border_radius=5&theme=midnight-purple">
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gudu&layout=compact&border_radius=5&theme=midnight-purple">
 </p>
