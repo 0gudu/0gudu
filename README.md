@@ -1,5 +1,5 @@
 <h1>Olá😎🤟</h1>
-<p>Meu nome é Gustavo! Sou um desenvolvedor de 18 anos que gosta de resolver problemas e aprender cada vez mais! Além de ser formado em Desenvolvimento de Sistemas pelo SENAI, estou cursando engenharia de software na Catolica SC. </p>
+<p>Meu nome é Gustavo! Sou um desenvolvedor de 19 anos que gosta de resolver problemas e aprender cada vez mais! Além de ser formado em Desenvolvimento de Sistemas pelo SENAI, estou cursando engenharia de software na Catolica SC. </p>
 
 <h2><b>Geralmente utilizo...</b></h2>
   <div>
